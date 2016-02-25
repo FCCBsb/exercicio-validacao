@@ -1,6 +1,7 @@
-# FCC Brasília - 2º Meetup - Exercício
+# Exercício Validação
+Realizado no 2º Meetup do FCC Brasília.
 
-Utilize os arquivos 'index.html' e/ou 'validacao.js' para resolver os desafios propostos.
+**Instrução**: utilize os arquivos 'index.html' e/ou 'validacao.js' para resolver os desafios propostos.
 Comente seu código.
 
 ## Desafio 1
