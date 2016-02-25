@@ -16,13 +16,13 @@ Verificar se os dados informados no formulário estão de acordo com as regras d
 **Output**
 >Desafio 1:
 
->Nome Completo (tem nome e sobrenome | muito curto)
+>Nome Completo (tem nome e sobrenome | curto)
 
->Telefone (não é numérico | muito curto | tem X dígitos | muito longo)
+>Telefone (não é numérico | curto | tem X dígitos | longo)
 
->Cartão de Crédito (não é numérico | muito curto | tem 16 dígitos | muito longo)
+>Cartão de Crédito (não é numérico | curto | tem 16 dígitos | longo)
 
->CPF (não é numérico | muito curto | tem 11 dígitos | muito longo)
+>CPF (não é numérico | curto | tem 11 dígitos | longo)
 
 
 ## Desafio 2
