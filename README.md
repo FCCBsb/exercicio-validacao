@@ -18,7 +18,7 @@ Verificar se os dados informados no formulário estão de acordo com as regras d
 
 >Nome Completo (tem nome e sobrenome | curto)
 
->Telefone (não é numérico | curto | tem 11 dígitos | longo)
+>Telefone (não é numérico | curto | tem xx dígitos | longo)
 
 >Cartão de Crédito (não é numérico | curto | tem 16 dígitos | longo)
 
