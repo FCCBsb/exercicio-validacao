@@ -9,9 +9,9 @@ Comente seu código.
 Verificar se os dados informados no formulário estão de acordo com as regras de validação abaixo.
 
 - Nome Completo: deverá ser composto por, pelo menos, nome e um sobrenome.
-- Telefone: deverá ter de 8 a 13 dígitos numéricos.
-- Cartão de Crédito: deverá ter 16 dígitos numéricos.
-- CPF: deverá ter 11 dígitos numéricos.
+- Telefone: deverá ter de 8 a 13 dígitos.
+- Cartão de Crédito: deverá ter 16 dígitos.
+- CPF: deverá ter 11 dígitos.
 
 **Output**
 >Desafio 1:
